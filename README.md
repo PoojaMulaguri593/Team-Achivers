@@ -1,1 +1,1 @@
-# Team-Achivers
+This Repository contains the PDF file of comprehensive overview of the Load Shedding Engine designed to tackle starvation issues in Apache Kafka. This includes a summary of the engine's purpose and objectives, an outline of its design and implementation, configuration instructions for setup within Kafka environments, usage guidance, troubleshooting tips, and support resources.
